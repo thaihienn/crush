@@ -1,0 +1,50 @@
+.thuTitle {
+	padding: 20px;
+	background-color: #ff9595;
+	color: #523939;
+	font-family: 'Dancing Script', cursive;
+	font-size: 26pt;
+}
+
+.tamthu {
+	/* font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; */
+	font-family: Florence, cursive;
+	font-size: 18pt;
+}
+p{
+	padding: 20px;
+	color: #523939;
+
+	font-size: 26pt;
+	text-indent: 30px;
+	text-transform: uppercase;
+margin-left: 15rem;
+	font-family: Florence, cursive;
+	font-size: 18pt;
+}
+.content {
+	background-color: #ffb2b2;
+}
+
+body {
+	background-color: pink;
+}
+span {
+	display: inline-block;
+	white-space: pre;
+}
+
+.iloveyou {
+	position: relative;
+}
+.btn{
+	padding: 10;
+}
+.mask {
+	position: absolute;
+	background-color: #ea2447;
+	width: 100%;
+	height:100%;
+	top: 0;
+	left: 0;
+}
